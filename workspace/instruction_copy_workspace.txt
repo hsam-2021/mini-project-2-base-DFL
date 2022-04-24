@@ -1,0 +1,1 @@
+copy all required files from extracted workspace.7z
