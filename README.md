@@ -17,8 +17,21 @@
 
 
 ## Steps to recreate?
+  
   ### Source video
-  ![Source](https://github.com/hsam-2021/mini-project-2-base-DFL/tree/main/miniproject2_pics/Robert.png)
+  </td></tr>
+<tr><td colspan=2 align="center">
+
+<img src="miniproject2_pics/Robert.png" align="center">
+
+</td></tr>
+   ### Target video
+  </td></tr>
+<tr><td colspan=2 align="center">
+
+<img src="miniproject2_pics/Elon.png" align="center">
+
+</td></tr>
 
   
   
