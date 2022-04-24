@@ -112,7 +112,7 @@
 <img src="miniproject2_pics/Elon+Robert.png" align="center">
 
   
-## Result Mask
+## Result face mask
   
 <tr><td align="center" width="50%">
 
