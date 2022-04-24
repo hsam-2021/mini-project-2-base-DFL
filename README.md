@@ -1,7 +1,6 @@
 # mini-project-2-base-DFL
-<table align="center" border="0">
 
-<tr><td colspan=2 align="center">
+
 
 # DeepFaceLab  
 
@@ -18,123 +17,119 @@
 
 ## Steps to recreate?
 
-  ## Source and Target videos
+ ### Clone the repository
+  Steps to reproduce the result and or clone the repository:
+  1. Open the command prompt(Windows)/ terminal(Mac) and change to the directory where you want to clone the repo
+  2. Command to clone the repo
+  
+  ```bash
 
-</td></tr>
+  git clone https://github.com/hsam-2021/mini-project-2-base-DFL.git
+```
+
+  3. Download the zipped files dependencies.zip from the google drive and put it in the folder DeepFaceLab as shown in the image below
+  <tr><td align="center" width="50%">
+  <img src="miniproject2_pics/_internal folder.png" align="center">
+  
+  4.Download the zipped files workspace.zip from the google drive and put it in the folder structure as shown in the image below
+    <tr><td align="center" width="50%">
+    <img src="miniproject2_pics/Workspace folder.png" align="center">
+
+ 
+      
+  ## Steps to follow:
+
+* Download the compatible zipped file on your machine. In our case windows.
+      
+* Extract the files.
+      
+* Clear the workspace (run the 1. clear workspace.bat)
+      
+* Extract images out of the video: Both for source and destination video.
+      
+* Run the extract images from video data_src.bat
+      
+* After this is done in the workspace> data_src folder the 654 images are extracted.
+      
+* Extract the images from destination video 
+      
+* Run extract images from video data_dst FULL FPS.bat
+      
+* After this is done in the workspace> data_dst folder the 1619 images are extracted.
+      
+* Extract faces from the source which focus only on extracting face region
+      
+* Run data_src faceset extract.bat 
+      
+* In the data_src > alignment folder all the extracted faces are saved
+      
+* Similarly extract faces from destination images
+      
+* Run data_dst faceset extract
+      
+* In the data_dst > alignment folder all the extracted faces are saved
+      
+* If the faces extracted in source and destination are not correct then we can delete the unwanted images using step 
+      
+* 4.1 data_src view aligned result
+      
+* Delete all the unwanted images from the folder.
+      
+* Now that we have clean source and destination images with extracted faces, we will train using train quick96. Here it will ask for model name, and then run the   
+  model.
+      
+* After training for around 60K -70K iteration the output is somewhat of reasonable quality. So will save the model.   
+      
+      
+## Source video
+  <tr><td align="center" width="50%">
+  <img src="miniproject2_pics/Robert.png" align="center">
+
+
+
+
+
+## target Video
 
 <tr><td align="center" width="50%">
-
-<img src="miniproject2_pics/Robert.png" align="center">
-
-</td>
-<td align="center" width="50%">
-
 <img src="miniproject2_pics/Elon.png" align="center">
 
-</td></tr>
 
-<tr><td colspan=2 align="center">
+<img src="doc/deage_0_2.jpg" align="center">
 
-</td></tr>
 
-## Result video
- 
-(image from the video provided here!)
+
+## Swapped video
+
+<tr><td align="center" width="50%">
 
 <img src="miniproject2_pics/Elon+Robert.png" align="center">
 
-
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-<img src="doc/make_everything_ok.png" align="center">
-
-Unfortunately, there is no "make everything ok" button in DeepFaceLab. You should spend time studying the workflow and growing your skills. A skill in programs such as *AfterEffects* or *Davinci Resolve* is also desirable.
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-## Mini tutorial
-
-<a href="https://www.youtube.com/watch?v=kOIMXt8KK8M">
-
-
-
-</a>
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-## Releases
-
-</td></tr>
-
-<tr><td align="right">
-<a href="https://tinyurl.com/2p9cvt25">Windows (magnet link)</a>
-</td><td align="center">Last release. Use torrent client to download.</td></tr>
-
-
-</table>
-
-<table align="center" border="0">
-
-<tr><td colspan=2 align="center">
-
-## Links
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-### Guides and tutorials
-
-</td></tr>
-
-
-
-<tr><td colspan=2 align="center">
-
-
-</td></tr>
-
-
-
-<table align="center" border="0">
-
-<tr><td colspan=2 align="center">
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
+## Result Mask
+  
 <tr><td align="center" width="50%">
 
+<img src="miniproject2_pics/result mask.png" align="center">
 
 
-</td><td align="center" width="10%">
 
 
-</td></tr>
 
-<tr><td colspan=2 align="center">
+
+
+
+
+
+
+
+
+
+
 
 <sub>#deepfacelab #deepfakes #faceswap #face-swap #deep-learning #deeplearning #deep-neural-networks #deepface #deep-face-swap #fakeapp #fake-app #neural-networks #neural-nets #tensorflow #cuda #nvidia</sub>
 
-</td></tr>
 
 
 
-</table>
+
