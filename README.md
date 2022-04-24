@@ -24,7 +24,7 @@
   
   ```bash
 
-  git clone https://github.com/hsam-2021/mini-project-2-base-DFL.git
+  git clone https://github.com/hsam-2021/mini-project-2-base-DFL
 ```
 
   3. Download the zipped files dependencies.zip from the google drive and put it in the folder DeepFaceLab as shown in the image below as the file size was large and could not be pushed on github
