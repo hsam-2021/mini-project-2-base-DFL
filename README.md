@@ -28,12 +28,17 @@
 ```
 
   3. Download the zipped files dependencies.zip from the google drive and put it in the folder DeepFaceLab as shown in the image below as the file size was large and could not be pushed on github
+  ```
+  https://drive.google.com/drive/folders/1IRWPWROuGaFFNN1bxyUsgevQjcIh3UqG?usp=sharing
+  
+  ```
+  
   <tr><td align="center" width="50%">
   <img src="miniproject2_pics/_internal folder.png" align="center">
   
-  4.Download the zipped files workspace.zip from the google drive and put it in the folder structure as shown in the image below
-    <tr><td align="center" width="50%">
-    <img src="miniproject2_pics/Workspace folder.png" align="center">
+  4.Download the zipped files workspace.zip from the google drive and put it in the folder structure as shown in the image below:
+      <tr><td align="center" width="50%">
+      <img src="miniproject2_pics/Workspace folder.png" align="center">
 
  
       
