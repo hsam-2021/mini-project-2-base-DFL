@@ -2,7 +2,7 @@
 
 
 
-# DeepFaceLab  
+## DeepFaceLab  
 
 <a href="https://arxiv.org/abs/2005.05535">
 <tr><td colspan=2 align="center">
@@ -27,7 +27,7 @@
   git clone https://github.com/hsam-2021/mini-project-2-base-DFL.git
 ```
 
-  3. Download the zipped files dependencies.zip from the google drive and put it in the folder DeepFaceLab as shown in the image below
+  3. Download the zipped files dependencies.zip from the google drive and put it in the folder DeepFaceLab as shown in the image below as the file size was large and could not be pushed on github
   <tr><td align="center" width="50%">
   <img src="miniproject2_pics/_internal folder.png" align="center">
   
@@ -82,6 +82,7 @@
       
       
 ## Source video
+      
   <tr><td align="center" width="50%">
   <img src="miniproject2_pics/Robert.png" align="center">
 
@@ -89,7 +90,7 @@
 
 
 
-## target Video
+## Target Video
 
 <tr><td align="center" width="50%">
 <img src="miniproject2_pics/Elon.png" align="center">
@@ -116,14 +117,21 @@
 
 
 
+## Authors:
+ * [Drishti Singh](ds6730@nyu.edu)
+ 
+ * [Harshada Sinha](hs4703@nyu.edu)
+ 
+ * [Vaishnavi Rajput](vr2229@nyu.edu)
 
 
 
 
 
 
+## Acknowledgement
 
-
+We are grateful to Prof. Siddharth Garg, Prof. Arsalan Mosenia and the teaching assistants for their help and support. Their guidance helped us to learn and implement our learnings through this project.
 
 
 
