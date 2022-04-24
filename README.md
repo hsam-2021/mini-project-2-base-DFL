@@ -17,27 +17,31 @@
 
 
 ## Steps to recreate?
-  
-  ### Source video
-  </td></tr>
-<tr><td colspan=2 align="center">
+
+  ## Source and Target videos
+
+</td></tr>
+
+<tr><td align="center" width="50%">
 
 <img src="miniproject2_pics/Robert.png" align="center">
 
-</td></tr>
-   ### Target video
-  </td></tr>
-<tr><td colspan=2 align="center">
+</td>
+<td align="center" width="50%">
 
 <img src="miniproject2_pics/Elon.png" align="center">
 
 </td></tr>
 
-  
-  
+<tr><td colspan=2 align="center">
 
 </td></tr>
-<tr><td colspan=2 align="center">
+
+## Result video
+ 
+(image from the video provided here!)
+
+<img src="miniproject2_pics/Elon+Robert.png" align="center">
 
 
 
