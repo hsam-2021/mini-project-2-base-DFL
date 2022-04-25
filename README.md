@@ -27,14 +27,14 @@
   git clone https://github.com/hsam-2021/mini-project-2-base-DFL
 ```
 
-  3. Download the zipped files dependencies.zip from the google drive and put it in the folder DeepFaceLab as shown in the image below as the file size was large and could not be pushed on github
+  3. Download the zipped files dependencies.zip from the google drive( as some of the the file size were large and could not be pushed on github) and put it in the folder DeepFaceLab as shown in the image below:
   ```
   https://drive.google.com/drive/folders/1IRWPWROuGaFFNN1bxyUsgevQjcIh3UqG?usp=sharing
   
   ```
-  
+ 
   <tr><td align="center" width="50%">
-  <img src="miniproject2_pics/_internal folder.png" align="center">
+  <img src="miniproject2_pics/DeepFaceLab%20folder.png" align="center">
   
   4.Download the zipped files workspace.zip from the google drive and put it in the folder structure as shown in the image below:
       <tr><td align="center" width="50%">
@@ -80,8 +80,7 @@
       
 * Delete all the unwanted images from the folder.
       
-* Now that we have clean source and destination images with extracted faces, we will train using train quick96. Here it will ask for model name, and then run the   
-  model.
+* Now that we have clean source and destination images with extracted faces, we will train using train quick96. Here it will ask for model name, and then run the model.
       
 * After training for around 60K -70K iteration the output is somewhat of reasonable quality. So will save the model.   
       
