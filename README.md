@@ -29,7 +29,7 @@
 
   3. Download the zipped files dependencies.zip from the google drive( as some of the the file size were large and could not be pushed on github) and put it in the folder DeepFaceLab as shown in the image below:
   ```
-  https://drive.google.com/drive/folders/1IRWPWROuGaFFNN1bxyUsgevQjcIh3UqG?usp=sharing
+ https://drive.google.com/drive/folders/1IRWPWROuGaFFNN1bxyUsgevQjcIh3UqG?usp=sharing
   
   ```
  
