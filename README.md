@@ -102,9 +102,11 @@
 
 <img src="doc/deage_0_2.jpg" align="center">
 
+## Training process
+ <tr><td align ="center" width ="50%">
+ <img src="miniproject2_pics/Training%2060K.png" align ="center">
 
-
-## Swapped video
+## Result video with face swapped
 
 <tr><td align="center" width="50%">
 
