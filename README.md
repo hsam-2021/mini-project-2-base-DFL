@@ -124,15 +124,9 @@
 
 
 ## Authors:
- * [Drishti Singh](ds6730@nyu.edu)
  
  * [Harshada Sinha](hs4703@nyu.edu)
  
- * [Vaishnavi Rajput](vr2229@nyu.edu)
-
-
-
-
 
 
 ## Acknowledgement
